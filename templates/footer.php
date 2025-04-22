@@ -1,7 +1,7 @@
 
 <footer class="bg-dark text-white text-center py-4 mt-5">
   <div class="container">
-    <p class="mb-1">&copy; 2025 PT Pos Indonesia (Persero). All rights reserved.</p>
+    <p class="mb-1">&copy; 2025 Created by Iqbal, Andika, Astri & Ramdani. All Rights Reserved | Hak cipta dilindungi.    </p>
     <small>Jl. Raya Bandung Km 11, Cianjur | Telp: +62 819-1091-2810</small>
   </div>
 </footer>

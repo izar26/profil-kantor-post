@@ -12,7 +12,7 @@
       </div>
     </div>
     <div class="col-md-6">
-      <iframe class="w-100 h-100 rounded shadow-sm" style="min-height:300px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.7127177658376!2d107.2256063!3d-6.804759700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6854eeed77bfcd%3A0xd25957494dc7770e!2sKantorpos%20Cimanggung!5e0!3m2!1sen!2sid!4v1745304235536!5m2!1sen!2sid" allowfullscreen="" loading="lazy"></iframe>
+      <iframe class="w-100 h-100 rounded shadow-sm" style="min-height:300px" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15846.85087106335!2d107.2256063!3d-6.8047597!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6854eeed77bfcd%3A0xd25957494dc7770e!2sKantor%20Pos%20Cikijing!5e0!3m2!1sid!2sid!4v1745306633115!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
   </div>
 </section>

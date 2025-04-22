@@ -6,12 +6,13 @@
   <title>Kantor Pos Sukaluyu</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="assets/css/custom.css" />
+  <link rel="shortcut icon" href="assets/img/logo1.png" type="image/png">
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-warning shadow-sm sticky-top">
   <div class="container">
     <a class="navbar-brand fw-bold" href="index.php">
-      <img src="assets/img/logo.png" alt="Logo" height="36" class="me-2">
+      <img src="assets/img/logo1.png" alt="Logo" height="36" class="me-2">
       Kantor Pos Sukaluyu
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">

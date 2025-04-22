@@ -11,21 +11,21 @@
     
     <div class="col-md-4">
         <div class="card shadow-sm">
-            <img src="assets/img/beranda/beranda1.png" class="card-img-top" alt="Foto Beranda 2">
+            <img src="assets/img/beranda/beranda1.jpg" class="card-img-top" alt="Foto Beranda 2">
         </div>
     </div>
     
 
     <div class="col-md-4">
         <div class="card shadow-sm">
-            <img src="assets/img/beranda/beranda4.png" class="card-img-top" alt="Foto Beranda 3">
+            <img src="assets/img/beranda/beranda4.jpg" class="card-img-top" alt="Foto Beranda 3">
         </div>
     </div>
     
 
     <div class="col-md-4">
         <div class="card shadow-sm">
-            <img src="assets/img/beranda/beranda3.png" class="card-img-top" alt="Foto Beranda 4">
+            <img src="assets/img/beranda/beranda3.jpg" class="card-img-top" alt="Foto Beranda 4">
         </div>
     </div>
     
@@ -34,7 +34,7 @@
     
     <div class="col-md-12">
         <div class="card shadow-sm">
-            <img src="assets/img/beranda/beranda2.png" class="card-img-top" alt="Foto Beranda 2">
+            <img src="assets/img/beranda/beranda2.jpg" class="card-img-top" alt="Foto Beranda 2">
         </div>
     </div>
     
